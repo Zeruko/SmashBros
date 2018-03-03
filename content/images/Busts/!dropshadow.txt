@@ -1,0 +1,8 @@
+-12
+5
+4
+60
+
+272x376
+
+^USE GIMP DROP SHADOW

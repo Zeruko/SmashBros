@@ -1,0 +1,103 @@
+[{
+    "thumb" : "../content/images/Mugshots/DrMario.png",
+    "name" : "DrMario",
+    "bust" : "../content/images/Busts/Regular/DrMario.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Mario.png",
+    "name" : "Mario",
+    "bust" : "../content/images/Busts/Regular/Mario.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Luigi.png",
+    "name" : "Luigi",
+    "bust" : "../content/images/Busts/Regular/Luigi.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Koopa.png",
+    "name" : "Koopa",
+    "bust" : "../content/images/Busts/Regular/Koopa.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Peach.png",
+    "name" : "Peach",
+    "bust" : "../content/images/Busts/Regular/Peach.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Yoshi.png",
+    "name" : "Yoshi",
+    "bust" : "../content/images/Busts/Regular/Yoshi.png"
+},  {
+    "thumb" : "../content/images/Mugshots/DK.png",
+    "name" : "DK",
+    "bust" : "../content/images/Busts/Regular/DK.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Falcon.png",
+    "name" : "Falcon",
+    "bust" : "../content/images/Busts/Regular/Falcon.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Ganon.png",
+    "name" : "Ganon",
+    "bust" : "../content/images/Busts/Regular/Ganon.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Falco.png",
+    "name" : "Falco",
+    "bust" : "../content/images/Busts/Regular/Falco.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Fox.png",
+    "name" : "Fox",
+    "bust" : "../content/images/Busts/Regular/Fox.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Ness.png",
+    "name" : "Ness",
+    "bust" : "../content/images/Busts/Regular/Ness.png"
+},  {
+    "thumb" : "../content/images/Mugshots/IC.png",
+    "name" : "IC",
+    "bust" : "../content/images/Busts/Regular/IC.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Kirby.png",
+    "name" : "Kirby",
+    "bust" : "../content/images/Busts/Regular/Kirby.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Samus.png",
+    "name" : "Samus",
+    "bust" : "../content/images/Busts/Regular/Samus.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Zelda.png",
+    "name" : "Zelda",
+    "bust" : "../content/images/Busts/Regular/Zelda.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Ylink.png",
+    "name" : "Ylink",
+    "bust" : "../content/images/Busts/Regular/YLink.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Link.png",
+    "name" : "Link",
+    "bust" : "../content/images/Busts/Regular/Link.png"
+},  {
+    "thumb" : ""
+},  {
+    "thumb" : "../content/images/Mugshots/Pichu.png",
+    "name" : "Pichu",
+    "bust" : "../content/images/Busts/Regular/Pichu.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Pikachu.png",
+    "name" : "Pikachu",
+    "bust" : "../content/images/Busts/Regular/Pikachu.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Jiggs.png",
+    "name" : "Jiggs",
+    "bust" : "../content/images/Busts/Regular/Jiggs.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Mewtwo.png",
+    "name" : "Mewtwo",
+    "bust" : "../content/images/Busts/Regular/Mewtwo.png"
+},{
+    "thumb" : "../content/images/Mugshots/G&W.png",
+    "name" : "G&W",
+    "bust" : "../content/images/Busts/Regular/G&W.png"
+},{
+    "thumb" : "../content/images/Mugshots/Marth.png",
+    "name" : "Marth",
+    "bust" : "../content/images/Busts/Regular/Marth.png"
+},  {
+    "thumb" : "../content/images/Mugshots/Roy.png",
+    "name" : "Roy",
+    "bust" : "../content/images/Busts/Regular/Roy.png"
+}]

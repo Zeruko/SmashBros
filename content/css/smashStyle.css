@@ -1,0 +1,92 @@
+/*=======Index Styles==============*/
+html, body {
+  height: 100%;
+  background-color: midnightblue;
+  color: white; }
+
+nav {
+  height: 15%; }
+
+main {
+  height: 100%; }
+
+#navBar {
+  background-image: url(../images/navBackground.jpg);
+  background-size: cover;
+  background-position: center center;
+  height: 100%;
+  border-bottom: 5px solid white;
+  position: relative; }
+  #navBar #back {
+    position: absolute;
+    right: 0%;
+    top: 40%;
+    height: 60%; }
+  #navBar #logoContainer {
+    width: 35%;
+    position: relative; }
+    #navBar #logoContainer img {
+      position: absolute;
+      width: 80%; }
+
+/*========Home.html Styles==================*/
+#characterIconsContainer {
+  height: 40%; }
+  #characterIconsContainer #characterIcons {
+    position: relative; }
+    #characterIconsContainer #characterIcons ul {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      list-style-type: none;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      padding: 0; }
+      #characterIconsContainer #characterIcons ul li {
+        display: inline-block;
+        -ms-flex-preferred-size: 11%;
+        flex-basis: 11%;
+        -ms-flex-pack: distribute;
+        justify-content: space-around; }
+        #characterIconsContainer #characterIcons ul li img {
+          height: 100%;
+          width: 100%;
+          display: inline-block;
+          background-color: lightgrey; }
+      #characterIconsContainer #characterIcons ul li:nth-child(19) img {
+        display: none; }
+
+#characterBustContainer {
+  height: 40%; }
+  #characterBustContainer #characterBust {
+    display: inline-block;
+    position: relative;
+    background-color: darkgrey;
+    height: 100%;
+    width: 25%;
+    margin-left: 20%;
+    border: 5px solid black; }
+    #characterBustContainer #characterBust img {
+      width: 100%;
+      height: 100%; }
+    #characterBustContainer #characterBust #characterName {
+      position: absolute;
+      top: 80%;
+      right: 20%;
+      height: 15%;
+      width: 60%;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      background-color: black;
+      border: 2px solid grey; }
+      #characterBustContainer #characterBust #characterName p {
+        font-size: 22px;
+        font-family: "Times New Roman", sans-serif;
+        font-weight: bold;
+        margin: auto; }
+
+/*=====================Media Queries=================*/

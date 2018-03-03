@@ -1,0 +1,55 @@
+      <img class="icon" src="content/images/CharacterIcons/characterIcons_03.jpg">
+      <img class="icon" src="content/images/CharacterIcons/characterIcons_04.jpg">
+	  
+	  
+	  
+.icon{
+    display: inline;
+}
+
+glyphicon glyphicon-chevron-left
+
+
+
+
+
+
+
+smashApp.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider){
+    
+        $locationProvider.html5Mode(true);
+    
+        $routeProvider
+            .when('/', {
+                templateUrl: 'views/home.html',
+                controller: 'SmashController'
+            });
+        
+}]);
+
+smashApp.controller('SmashController', ['$scope', '$http', function($scope, $http){
+    
+        $scope.message = "test";
+    
+        $http.get('../data/characters.json').then(function(response){
+            $scope.characters = response.data;
+        });
+}]);
+
+
+<div id="back"><a src="google.com"><div><span id="glyphiconBack" class="glyphicon glyphicon-chevron-left"></span><p>Back</p></div></a></div>
+
+            a{  
+                p{
+                    display: inline-block;
+                    font-size: 22px;
+                    color: yellow;
+                    margin: 0 0 0 5%;
+                }
+                #glyphiconBack{
+                    color: red;
+                    font-size: 140%; 
+                }
+            }
+                
+        }
